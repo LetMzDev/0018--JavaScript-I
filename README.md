@@ -2,6 +2,8 @@
 
 ## JavaScript
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/2023/)
+- [Console](https://developer.mozilla.org/pt-BR/docs/Web/API/console)
+- [Escopo](https://developer.mozilla.org/pt-BR/docs/Glossary/Scope)
 ___
 
 ## Node.js
