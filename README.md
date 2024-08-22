@@ -10,6 +10,7 @@ ___
 ___
 
 ## Comandos Terminal
+**Função** | **Descrição**
 ---|---
 `node -version` | Verifica a versão atual do `nodeJS`
 `node -v` | Verifica a versão atual do `nodeJS`
