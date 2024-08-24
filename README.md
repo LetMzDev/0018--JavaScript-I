@@ -4,6 +4,10 @@
 - [ECMAScript® 2023 Language Specification](https://tc39.es/ecma262/2023/)
 - [Console](https://developer.mozilla.org/pt-BR/docs/Web/API/console)
 - [Escopo](https://developer.mozilla.org/pt-BR/docs/Glossary/Scope)
+- [String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Lista de métodos de string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#instance_methods)
+- [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+
 ___
 
 ## Node.js
