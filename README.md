@@ -7,7 +7,12 @@
 - [String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Lista de métodos de string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#instance_methods)
 - [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
-
+- [Documentação do MDN: lista completa de operadores](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)
+- [Documentação do MDN: operadores aritméticos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#arithmetic_operators)
+- [Documentação do MDN: operadores de comparação](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#comparison_operators)
+- [Documentação do MDN: operadores lógicos](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#logical_operators)
+- [Documentação do MDN: truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+- [Documentação do MDN: falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 ___
 
 ## Node.js
