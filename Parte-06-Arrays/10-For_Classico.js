@@ -34,12 +34,18 @@ const notas3 = [ 8.5, 9.5 ];
 const notas_Gerais = [ notas1, notas2, notas3 ];
 const tamanho_Geral = notas_Gerais.length;
 
-let media_Geral = 0;
+let soma_Total = 0;
+let quantidade_Notas = 0;
 
 for ( let i = 0; i < tamanho_Geral; i++ )
 {
 	for ( let j = 0; j < notas_Gerais [ i ].length; j++ )
-		media_Geral += notas_Gerais [ i ] [ j ] / notas_Gerais [ i ].length;
+	{
+		soma_Total += notas_Gerais [ i ] [ j ];
+		quantidade_Notas++;
+	}
 }
 
-console.log ( `A média geral das notas é: ${media_Geral.toFixed ( 2 )}` );
+const media_Geral = ( soma_Total / quantidade_Notas ).toFixed ( 2 );
+
+console.log ( `A média geral das notas é: ${media_Geral}` );
