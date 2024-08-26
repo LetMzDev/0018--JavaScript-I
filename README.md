@@ -14,6 +14,10 @@
 - [Documentação do MDN: truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 - [Documentação do MDN: falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 ___
+### Arrays
+- [Push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+-[Pop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+___
 
 ## Node.js
 - [NodeJS](https://nodejs.org/pt)
