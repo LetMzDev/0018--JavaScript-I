@@ -33,7 +33,10 @@ ___
 ___
 ### Objetos
 - [Object.Create](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
-
+- [Object.keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+- [Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+- [Object.entries](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
+____
 ## Node.js
 - [NodeJS](https://nodejs.org/pt)
 - [Download](https://nodejs.org/pt/download/package-manager)
