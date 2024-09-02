@@ -31,6 +31,8 @@ ___
 - [Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set)
 - [Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 ___
+### Objetos
+- [Object.Create](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 
 ## Node.js
 - [NodeJS](https://nodejs.org/pt)
