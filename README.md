@@ -36,6 +36,7 @@ ___
 - [Object.keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - [Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 - [Object.entries](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
+- [hasOwnProperty](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty)
 ____
 ## Node.js
 - [NodeJS](https://nodejs.org/pt)
@@ -45,10 +46,6 @@ ___
 
 ## Módulos
 - [Módulos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Modules)
-- []()
-- []()
-- []()
-
 ___
 
 ## Comandos Terminal
