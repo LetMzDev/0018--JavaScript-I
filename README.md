@@ -40,6 +40,15 @@ ____
 ## Node.js
 - [NodeJS](https://nodejs.org/pt)
 - [Download](https://nodejs.org/pt/download/package-manager)
+- [Node.js v22.7.0 documentation](https://nodejs.org/api/modules.html#modules_modules)
+___
+
+## Módulos
+- [Módulos JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Modules)
+- []()
+- []()
+- []()
+
 ___
 
 ## Comandos Terminal
